@@ -1,4 +1,4 @@
-package collections.set;
+package collections.set.hash;
 
 import java.util.Arrays;
 
